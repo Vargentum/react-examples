@@ -1,0 +1,11 @@
+{
+  "name": "react-examples",
+  "version": "0.0.1",
+  "description": "Practical code examples to learn ReactJS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vargentum",
+  "license": "MIT"
+}
